@@ -26,7 +26,7 @@ function App() {
 
       <hr />
       <hr />
-      
+
       <div className="slider item">
         <label for="slider">Slider</label>
         <input type="range" className="custom-range" id="slider" />

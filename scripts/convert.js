@@ -1,5 +1,8 @@
 /**
  * to run from root: "node scripts/convert mock-1"
+ * 
+ * Node script to split a given image into 200 x 100 sections, against which
+ * to run the Brain.js model
  */
 
 const fs = require('fs');

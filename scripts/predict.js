@@ -1,5 +1,7 @@
 /**
  * to run from root: "node scripts/predict check-1"
+ * 
+ * Run model against specified image from training-data
  */
 
 const brain = require('brain.js');

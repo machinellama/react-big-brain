@@ -1,5 +1,8 @@
 /**
  * to run from root: "node ./scripts/preprocess 1"
+ * 
+ * Apply grayscale and horizontal flipping to component-pics, to build
+ * training data for model inputs
  */
 
 const fs = require('fs');
